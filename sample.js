@@ -1,22 +1,13 @@
+// Datatypes
+
+// Primitive
+var a = 10;
+let b = 20;
+const c = 30;
+var x = undefined;
+var y = null;
 
 
-var x = 0;
-
-
-function sample() {
-  var x = 100;
-
-  {
-    let x = 999;
-  }
-
-  console.log(x);
-}
-
-sample();
-
-var str = "snjaay";
-
-console.log(str[2]);
-
-// console.log(x);
+// Composite
+const arr = [1, 'Sanjay', null, undefined, 5];
+const obj = { name: 'SANJAY', type: 'Mentor', role: "Teaching FSD", experience: 10, age: 30, isMarried: true };

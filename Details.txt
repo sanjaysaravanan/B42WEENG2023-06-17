@@ -1,22 +1,58 @@
 Topics:
+  0. Remotes
+    Multiple Remote Respository
+
+    Create Repo in Github and push some codes from local
 
   1. stashing
-  2. branching
-  3. Collabrative Development
+    stash
+    stash apply
+
+  2. Collabrative Development
+    
+  3. branching
+    Feature: add a image of a bird
+    Bugfix: fix spelling 
+
   4. Profile Information using Readme.md
+    Templates: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
+    Generator: https://rahuldkjain.github.io/gh-profile-readme-generator/
   5. Undo Commits
-
-VScode Extensions:
-  Live Server - Ritwick Dey
-  vscode Icons - VsCode Icons Team
-  Sonarlint - Sonarsource
-  EsLint - Microsoft
-  HTML CSS Support - ecmel
-  HTML - Snippets - geyao
-  Bracket Pair Colorization Toggler - Dzhavat Ushev
+    Mostly use vscode
 
 
-Datatypes
+Task:
+  Node Latest LTS(Long Time Support) version, (https://nodejs.org/en/download) dowload exe and install it
+  VScode Extensions:
+    Live Server - Ritwick Dey
+    vscode Icons - VsCode Icons Team
+    Sonarlint - Sonarsource
+    EsLint - Microsoft
+    HTML CSS Support - ecmel
+    HTML - Snippets - geyao
+    Bracket Pair Colorization Toggler - Dzhavat Ushev
+
+
+Codekata Topics:
+
+Datatypes:
+  Basic Primitive:
+    Number, String, Boolean, undefined (default value for a declaration) ( not yet defined ), null ( empty forever )
+  
+  Composite: ( combination of Primitive types together )
+    Array: sequential storage with incremantal index
+      push -> method/function (action) insert an element at last
+      pop -> method/function (action) remove an element from last
+      length -> single value ( property/attribute ) lenght of the array
+    
+    Object: key <-> value pair where key acts as an index/identifier
+
+
+    
+
+Next Session:
+
+Declartion & initialization
 
 Scope
   global ---> parent scope every scopes ()
@@ -73,6 +109,10 @@ Array: it is sequential memory location
   get length of an array
 
   array.join
+
+Iternation of iterable types
+
+
 
   
 
