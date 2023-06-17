@@ -1,0 +1,79 @@
+Topics:
+
+  1. stashing
+  2. branching
+  3. Collabrative Development
+  4. Profile Information using Readme.md
+  5. Undo Commits
+
+VScode Extensions:
+  Live Server - Ritwick Dey
+  vscode Icons - VsCode Icons Team
+  Sonarlint - Sonarsource
+  EsLint - Microsoft
+  HTML CSS Support - ecmel
+  HTML - Snippets - geyao
+  Bracket Pair Colorization Toggler - Dzhavat Ushev
+
+
+Datatypes
+
+Scope
+  global ---> parent scope every scopes ()
+
+    function ( inside function (){} )
+
+    block {}
+
+  {} ---> block of lines
+
+  [] ---> Array of elements
+
+  () ---> methods/functions
+
+looping, conditions, simple problems
+
+  looping: it is a process of repeating a block statements again and again
+
+  for, while, do while
+
+  how many times or when to stop the looping
+
+  concepts in looping
+  initialization, termination condition, inc/drec
+
+Conditional Statements:
+
+  Operators:
+
+    Arithemetic: +, -, *, /, %( 5 % 2 ---> 1 ( remainder) )
+    Assignment: =
+    Logical: &(and), |(or), !(not), &&, ||
+    compariason: >, <, >=, <=, !=, ==, ===
+    Boolean: true or false
+
+  == vs ===
+
+  LHS vs RHS
+
+  if else
+
+String:
+  split
+
+
+Array: it is sequential memory location
+
+  Array index always starts from 0
+
+  accessing values of an array
+
+  array can contain elements of multiple types
+
+  get length of an array
+
+  array.join
+
+  
+
+
