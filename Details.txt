@@ -17,8 +17,9 @@ Topics:
   4. Profile Information using Readme.md
     Templates: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
     Generator: https://rahuldkjain.github.io/gh-profile-readme-generator/
-  5. Undo Commits
+  5. Undo Last Commit
     Mostly use vscode
+  6. Going to a particular - Future Discussion
 
 
 Task:
